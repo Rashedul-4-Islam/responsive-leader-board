@@ -154,10 +154,7 @@ top blog styles
         width: 100%;
         height: 100%;
     }
-    .navbar{
-        display: block;
-        margin-left: 60px;
-    }
+   
     .players, .blogs, .courses{
         grid-template-columns: repeat(2 ,1fr);
     }
