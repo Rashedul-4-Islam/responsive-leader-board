@@ -118,13 +118,16 @@ top blog styles
 }
 .course-details{
     display: flex;
+    margin-top: 10px;
+    align-items: center;
 }
 .filled{
     color:rgb(107, 107, 102);
 }
-.empty{
+.emp{
     color: white;
 }
+
 .duration{
     margin-left: 10px;
 }
